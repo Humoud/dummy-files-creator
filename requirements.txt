@@ -1,2 +1,2 @@
-PyQt5==5.15.6
-PyInstaller==4.8
+PyQt5==5.15.7
+PyInstaller==5.7.0
